@@ -1,4 +1,6 @@
-Flakon
+# This is a Public repository
+
+Rundom on Flakon
 ======
 
 **DISCLAIMER** This was made for educational
